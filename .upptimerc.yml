@@ -1,7 +1,6 @@
 # Core Configuration
-# Replace YOUR_GITHUB_OWNER (2 places) with the GitHub user or org that owns the repo.
-owner: https://github.com/kashfy-clinic
-repo: status
+owner: kashfy-clinics
+repo: kashfy-status
 
 # Monitoring Targets
 sites:
@@ -18,7 +17,8 @@ sites:
     icon: https://www.kashfy.site/icon.svg
 
 assignees:
-  - https://github.com/kashfy-clinic
+  - kashfy-clinics
+
 
 # Status Website Customization
 status-website:
