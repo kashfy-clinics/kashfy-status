@@ -8,14 +8,7 @@ sites:
   - name: Website
     url: https://www.kashfy.site
     icon: https://www.kashfy.site/icon.svg
-  - name: SMS Gateway
-    # 200 while the TextBee API behind Caddy is answering
-    url: https://sms.kashfy.site/healthz
-    icon: https://www.kashfy.site/icon.svg
-  - name: SMS Phone
-    # 200 while the Android phone sent a heartbeat in the last 90 minutes
-    url: https://sms.kashfy.site/phone-health
-    icon: https://www.kashfy.site/icon.svg
+
 
 assignees:
   - kashfy-clinics
