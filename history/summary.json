@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1432,
-    "timeDay": 1432,
-    "timeWeek": 1432,
-    "timeMonth": 1432,
-    "timeYear": 1432,
+    "time": 1447,
+    "timeDay": 1447,
+    "timeWeek": 1447,
+    "timeMonth": 1447,
+    "timeYear": 1447,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://www.kashfy.site/icon.svg",
     "slug": "sms-gateway",
     "status": "down",
-    "uptime": "98.42%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "98.42%",
-    "uptimeMonth": "98.42%",
-    "uptimeYear": "98.42%",
+    "uptime": "41.58%",
+    "uptimeDay": "41.58%",
+    "uptimeWeek": "41.58%",
+    "uptimeMonth": "41.58%",
+    "uptimeYear": "41.58%",
     "time": 415,
     "timeDay": 415,
     "timeWeek": 415,
     "timeMonth": 415,
     "timeYear": 415,
     "dailyMinutesDown": {
-      "2026-10-01": 5
+      "2026-10-02": 219,
+      "2026-10-01": 214
     }
   },
   {
@@ -54,7 +55,8 @@
     "timeMonth": 413,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2026-10-01": 313
+      "2026-10-02": 219,
+      "2026-10-01": 522
     }
   }
 ]
