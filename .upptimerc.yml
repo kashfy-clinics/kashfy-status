@@ -8,6 +8,9 @@ sites:
   - name: Website
     url: https://www.kashfy.site
     icon: https://www.kashfy.site/icon.svg
+  - name: Health
+    url: https://www.kashfy.site/api/health
+    icon: https://www.kashfy.site/icon.svg  
 
 
 assignees:
